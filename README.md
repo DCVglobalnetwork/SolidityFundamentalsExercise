@@ -117,8 +117,9 @@ contract SimpleStorage {
 # Prerequisites
 Ensure you have the following installed:
 
-Node.js
-Hardhat
++ Node.js
+  
++ Hardhat
 
 Steps
 1. Clone the repository:
