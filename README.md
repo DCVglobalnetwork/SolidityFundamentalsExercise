@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This project demonstrates the basics of Solidity through two smart contracts: Timelock and SimpleStorage. The Timelock contract restricts certain actions until a specified time has passed, while the > >SimpleStorage contract allows for storing and retrieving a number, with a dependency on the Timelock contract for access control.
+> This project demonstrates the basics of Solidity through two smart contracts: Timelock and SimpleStorage. The Timelock contract restricts certain actions until a specified time has passed, while the SimpleStorage contract allows for storing and retrieving a number, with a dependency on the Timelock contract for access control.
 
 ## Contracts
 `Timelock.sol`
